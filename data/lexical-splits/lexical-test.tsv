@@ -1,0 +1,422 @@
+seed	sentence	label	stereotype
+queen	Set in dreamy and exquisite scenery, and moving in mystical dances, the green costume, like burnished beetle-wings, expressed all the elusive individuality of an elfin queen.	unambiguous_female	-
+administrator	If A taxpayer dies , the executor , administrator , or legal representative must file the final return for the decedent on or before the 15th day of the 4th month following the close of the deceased taxpayer's normal tax year .	ambiguous	neutral
+women	The lay leadership of the church may be invited to speak on the various phases of church life , service opportunities , the church school , missions , men's work , women's work , youth program , social activities , and finances .	unambiguous_female	-
+gentlemen	They were permitted to go alone; and with a cordial nod from one, and a graceful bow from the other, the two gentlemen took leave.	unambiguous_male	-
+ballplayer	The Riverside physician came down to look over the injured ballplayer .	ambiguous	m
+ladies	I had to stand up , with the ladies .	unambiguous_female	-
+women	This favorable image of America in the minds of Russian men and women is still there despite years of energetic anti-American propaganda ''	unambiguous_female	-
+man	If we look to the answer as to why, for so many years, we achieved so much, prospered as no other people on Earth, it was because here, in this land, we unleashed the energy and individual genius of man to a greater extent than has ever been done before.	unambiguous_male	-
+dancer	From this being come new movement ideas that utilize dancer and property as a single unit .	ambiguous	f
+man	`` How can a man with any degree of common decency charge this '' ? ?	unambiguous_male	-
+man	The life of a man is three-score years and ten: a little more, a little less.	unambiguous_male	-
+count	Lives of nations are determined not by the count of years, but by the lifetime of the human spirit.	unambiguous_male	-
+son	`` Drink , you son of a bitch '' ! !	unambiguous_male	-
+maid	Every kind for itself and its own, for me mine male and female, For me those that have been boys and that love women, For me the man that is proud and feels how it stings to be slighted, For me the sweet-heart and the old maid, for me mothers and the mothers of mothers, For me lips that have smiled, eyes that have shed tears, For me children and the begetters of children.	unambiguous_female	-
+citizen	We know that we still have far to go; that we must more greatly build the security and the opportunity and the knowledge of every citizen, in the measure justified by the resources and the capacity of the land.	ambiguous	neutral
+poet	Perhaps the mere fact that by plucking on the nerves nature can awaken in the most ordinary of us , temporarily anyway , the sleeping poet , and in poets can discover their immortality , is the most remarkable of all the remarkable phenomena to which we can attest ? ?	ambiguous	neutral
+housewife	A cookie with caramel filling and chocolate frosting won $25,000 for a Minneapolis housewife in the 13th annual Pillsbury Bake-Off Tuesday .	unambiguous_female	-
+poet	In a time when poetic style , and poetic belief as well , seem in a state of continual flux , Hardy stands out as a poet of almost perverse consistency .	ambiguous	neutral
+mother	The Island of Nantucket , part of the State of Massachusetts , lies about thirty-one miles southeast of its mother State .	unambiguous_female	-
+man	I waited a solid two hours before my man came out of the office building .	unambiguous_male	-
+brother	In fact, you would a good deal rather not sleep with your own brother.	unambiguous_male	-
+women	And the women of New Bedford, they bloom like their own red roses.	unambiguous_female	-
+philosopher	Here I think the role of the philosopher becomes apparent .	ambiguous	m
+author	The famous author tells us of the strange incident in Something About Myself .	ambiguous	neutral
+preacher	It was a negro church; and the preacher's text was about the blackness of darkness, and the weeping and wailing and teeth-gnashing there.	ambiguous	m
+guy	`` You're afraid to talk to a guy you idolize '' .	unambiguous_male	-
+soldier	"Yes," said MacIan, like a soldier taking orders.	ambiguous	m
+sir	"Steady, sir."	unambiguous_male	-
+secretary	`` This afternoon '' , the secretary said .	ambiguous	f
+man	Writers of this class of science fiction have clearly in mind the assumptions that man can master the principles of this cause-and-effect universe and that such mastery will necessarily better the human lot .	unambiguous_male	-
+men	My men , they all left me .	unambiguous_male	-
+advocate	I still recall the mild shock I experienced in reading material of an enthusiastic advocate of the `` clean , healthful , free way of natural life in nudism '' , who seemed to brave much misunderstanding and persecution in fine spirit .	ambiguous	neutral
+man	Our own country could alone have exhibited so grand and striking a spectacle of the capacity of man for self-government.	unambiguous_male	-
+girl	The girl looked around at the countryside .	unambiguous_female	-
+swimmer	Long have you timidly waded holding a plank by the shore, Now I will you to be a bold swimmer, To jump off in the midst of the sea, rise again, nod to me, shout, and laughingly dash with your hair.	ambiguous	neutral
+women	Just as modern transportation has outmoded the early Studebaker covered wagon , the demand of today's sportsmen and women has necessitated changes in their equipment .	unambiguous_female	-
+nurse	my dear,' says I, 'it is nothing in the world, but the red gum--' and nurse said just the same.	ambiguous	f
+nurse	"Coming in a minute, nurse!	ambiguous	f
+boy	Anyhow , it was high time the boy was salted .	unambiguous_male	-
+observer	Since the earth is rotating and the unleveled gyro-stabilized platform is fixed with respect to a reference in space , an observer on the earth will see the platform rotating ( with respect to the earth ) .	ambiguous	neutral
+women	Fifteen years ago , troubled by the rising tide of materialism in the post-war world , a businessman and a minister asked themselves if there might not be a place for a small magazine in which men and women , regardless of creed or color , could set forth boldly their religious convictions and bear witness to the power of faith to solve the endless problems of living .	unambiguous_female	-
+uncle	My uncle was a Swedenborgian."	unambiguous_male	-
+author	But quite conceivably an altogether different impression will obtain when the work is offered in the theatre and there can be other effects to relieve the burden on the author's words .	ambiguous	neutral
+bride	Of course , if you want to throw all caution to the winds and rent an Imperial or Cadillac limousine just for you and your bride , you'll have a memorable tour , but it won't be cheap , and it is not recommended unless you own a producing oil well or you've had a winner in the Irish Sweepstakes .	unambiguous_female	-
+performer	The music is always allowed the living space needed to attain its full sonority ; ; yet the hall never intrudes as a quasi-performer .	ambiguous	neutral
+girl	The girl dropped off to sleep .	unambiguous_female	-
+boy	The boy was becoming acquainted with the contadini families that brought produce into Rome .	unambiguous_male	-
+man	What a man this Petipa was ! !	unambiguous_male	-
+homemaker	Simultaneously , a variety of environmental supports -- a calm but not too motherly homemaker , referral for temporary economic aid , intelligent use of nursing care , accompaniment to the well-baby clinic for medical advice on the twins' feeding problem -- combined to prevent further development of predictable pathological mechanisms .	ambiguous	f
+president	`` When you stand up in public and take vows to strive to set an example before your children and to teach them the fundamentals of the Christian faith , you strive a little harder to uphold those vows '' , explains the slender vice president of the young couples Sunday school class .	ambiguous	m
+poet	Yet, in saying this, I do but indirectly burnish a little brighter the noble merit of the poem and the poet.	ambiguous	neutral
+wife	Possible upshots : The company could be denied a deduction for its pension payments , or those payments for the wife and other employes could be ruled taxable to them in the year made .	unambiguous_female	-
+woman	and I am a small woman .	unambiguous_female	-
+psychiatrist	But I do and my psychiatrist does , too .	ambiguous	neutral
+men	One is so accustomed to think of men as the privileged who need but ask and receive , and women as submissive and yielding , that our sympathies are usually enlisted on the side of the man whose love is not returned , and we condemn the woman as a coquette .	unambiguous_male	-
+poet	The lordly poet was at low-water mark .	ambiguous	neutral
+groom	Britain until recently went along in some areas with all of the enthusiasm of the groom at a shotgun wedding .	unambiguous_male	-
+page	This was the page at which the favourite volume always opened: "ELLIOT OF KELLYNCH HALL.	unambiguous_male	-
+men	Within the membership of this group , as has been found true of men in other professional or trade associations , the most ready portrayal of oneself to `` the public '' is that of a neutral agent simply serving the interests of a seller or buyer and mediating between them .	unambiguous_male	-
+aunt	The brothers continued to help each other during their studies , sharing a joint purse , lodging together in the dormitory and dining together at the home of their aunt .	unambiguous_female	-
+mother	Your dear mother was so clever at all those things!	unambiguous_female	-
+artist	But for the technical fact , we have the artist's own testimony : `` Of late years , I find that I like best to work out-of-doors .	ambiguous	neutral
+women	Men and women of the world move toward free markets through the door to prosperity.	unambiguous_female	-
+men	In the meadow below , militia officers shouted at their men and on King's Bridge two boys sat fishing .	unambiguous_male	-
+attorney	I am an attorney , not an instrument of vengeance '' .	ambiguous	neutral
+geologist	This is the geologist, this works with the scalper, and this is a mathematician.	ambiguous	neutral
+lady	But who cares , when the lady sings ? ?	unambiguous_female	-
+boy	`` Our boy didn't chicken out , no sir .	unambiguous_male	-
+women	In the early spring of 1913 a few hundred thousand persons turned out to watch 5000 women parade .	unambiguous_female	-
+bachelor	A nice bachelor apartment in a place called the Lancaster Arms '' .	unambiguous_male	-
+worker	The Wechsler Intelligence Scale For Children was administered to each sample third-grade child by a clinical worker .	ambiguous	neutral
+pope	There are a great many bishops who have never had a cross on their bosom , nor a mitre on their head , who appeal not to the authority of the Pope at Rome , but to the Almighty Dollar , a pope much nearer home .	unambiguous_male	-
+man	We are already committed to establishing man's supremacy over nature and everywhere on earth , not merely in the limited social-political-economical context we are fond of today .	unambiguous_male	-
+woman	After this deal with the Bouvardier woman went through .	unambiguous_female	-
+citizen	It is a question in which every citizen of the nation is deeply interested, and with respect to which we ought not to be, in a partisan sense, either Republicans or Democrats, but fellow citizens and fellowmen, to whom the interests of a common country and a common humanity are dear.	ambiguous	neutral
+daughter	Princess Moune , Prince Souvanna Phouma's young daughter , read the Princes' statement .	unambiguous_female	-
+president	That is a sound position , but it is important that Moscow shall recognize it not merely as the word of a president but as the mind of a free people who are not afraid .	ambiguous	m
+captain	The captain's gig of H.M.S. Mercury was being rowed to H.M.S. Neptune .	ambiguous	m
+men	Whenever artists , indeed , turned to actual representations or molded three-dimensional figures , which were rare down to 800 B.C. , they tended to reflect reality ( see Plate 6a , 9b ) ; ; a schematic , abstract treatment of men and animals , by intent , rose only in the late eighth century .	unambiguous_male	-
+dame	You still have your paper hat and you're wearing it , but then , it is an extraordinary paper hat and , in addition to anything else you may be , you are also the sculptor who created that most peculiar dame out in the back yard .	unambiguous_female	-
+president	The vice president of the City Council complained yesterday that there are `` deficiencies '' in the city's snow clearing program which should be corrected as soon as possible .	ambiguous	m
+servant	In other words , the Secretary General is to be a nonpartisan , international servant , not a political , national one .	ambiguous	neutral
+men	I'm sure all girls feel this way about men until they live with them .	unambiguous_male	-
+women	This action was rationalized on the basis of a small survey which indicated that a high percentage of married freshmen women on our campus never become sophomores .	unambiguous_female	-
+women	In deadly earnest , the besiegers methodically stripped away portions of the roof and tossed lighted rags inside , only to have most stamped out by the women as soon as they hit the floor .	unambiguous_female	-
+woman	I am very much mistaken if your sex in general would not think such beauty, and such temper, the highest claims a woman could possess."	unambiguous_female	-
+man	A white man would not have seen it .	unambiguous_male	-
+husband	My husband and I , a month ahead of the rush , have just finished a 7-day motor journey of 2809 miles from Tucson , Ariz. , to New York City : set for influx I can testify that motels , service and comfort stations ( they go together like Scots and heather ) , dog wagons , roadside restaurants , souvenir stands and snake farms are braced and waiting .	unambiguous_male	-
+hangman	Just as I know I would make a bad soldier even though I cannot sincerely call myself a pacifist , so too I would not be either a hangman by profession or , if I could avoid it , even a member of a hanging jury .	unambiguous_male	-
+father	My father, in old Tolland county, cut down a pine tree once, and found a silver ring grown over in it; some old darkey's wedding ring.	unambiguous_male	-
+king	And reckon'st thou thyself with Spirits of Heaven Hell-doomed, and breath'st defiance here and scorn, Where I reign king, and, to enrage thee more, Thy king and lord?	unambiguous_male	-
+men	There are men who doubt this.	unambiguous_male	-
+men	`` Is the attitude of German youth comparable to that of `` the angry young men ' of England '' ? ?	unambiguous_male	-
+page	In connection with this conference , a 64-page supplement was published in the October 2nd edition of The Providence Sunday Journal .	unambiguous_male	-
+servant	The ages of the slaves ranged from sixty-five , for an old house servant , to an unnamed newborn child .	ambiguous	neutral
+flapper	Some date it from woman suffrage , others from when women first began to challenge men in the marketplace , still others from the era of the emancipated flapper and bathtub gin .	unambiguous_female	-
+wife	YOU are my cousins, and they are my wife's, so you must be related."	unambiguous_female	-
+women	It is made up of men and women who raise our food, patrol our streets, man our mines and our factories, teach our children, keep our homes, and heal us when we are sick -- professionals, industrialists, shopkeepers, clerks, cabbies, and truckdrivers.	unambiguous_female	-
+hostess	In the houses the dishes and fare and furniture--but the host and hostess, and the look out of their eyes?	unambiguous_female	-
+male	It ranged from those with no children , through students in various stages of pregnancy , to one 44-year-old male with four children , three of whom were teenagers .	unambiguous_male	-
+ladies	The girls , very fetching in their uniforms , are shown firing rockets from a launcher mounted on a dump truck ; ; they are also trained with carbines , automatic weapons , pistols , rifles and other such ladies' accessories .	unambiguous_female	-
+soldier	The soldier camp'd or upon the march is mine, On the night ere	ambiguous	m
+citizen	While every American citizen must contemplate with the utmost pride and enthusiasm the growth and expansion of our country, the sufficiency of our institutions to stand against the rudest shocks of violence, the wonderful thrift and enterprise of our people, and the demonstrated superiority of our free government, it behooves us to constantly watch for every symptom of insidious infirmity that threatens our national vigor.	ambiguous	neutral
+boy	`` Atta boy '' .	unambiguous_male	-
+women	It has been my experience to find as many men as women in church , and to hear almost everyone in church congregations reciting the Latin prayers and responses at Mass .	unambiguous_female	-
+ladies	As for the ladies , they were full of charm , and sincerity , and deep and abiding affection for this hurrying driving , honest , little man .	unambiguous_female	-
+poet	The heart of this great poet constantly bubbles forth a generous joy of life -- with or without the guitar '' .	ambiguous	neutral
+citizen	But the best results in the operation of a government wherein every citizen has a share largely depend upon a proper limitation of purely partisan zeal and effort and a correct appreciation of the time when the heat of the partisan should be merged in the patriotism of the citizen.	ambiguous	neutral
+son	I came under the spell of a younger group in the church led by the pastor's older son .	unambiguous_male	-
+men	Never before have men tried so vast and formidable an experiment as that of administering the affairs of a continent under the forms of a Democratic republic.	unambiguous_male	-
+author	[*] The eBook, when displayed, is clearly readable, and does *not* contain characters other than those intended by the author of the work, although tilde (~), asterisk (*) and underline (_) characters may be used to convey punctuation intended by the author, and additional characters may be used to indicate hypertext links; OR	ambiguous	neutral
+women	`` There may not be any women left '' , I said .	unambiguous_female	-
+author	The reality of spirit emerges in this play in spite of the author's convictions to the contrary .	ambiguous	neutral
+men	It is an evil omen of the times that men have undertaken to calculate the mere material value of the Union.	unambiguous_male	-
+town	While no larger than Dutch Springs , this mining supply town had the appearance of being far busier and more prosperous .	unambiguous_male	-
+horseman	O the horseman's and horsewoman's joys!	unambiguous_male	-
+women	As our victory showed, the entire nation is rapidly unifying behind our agenda with dramatic increases in support from virtually every element of our society: young and old, men and women, African Americans, Hispanic Americans, Asian Americans, urban, suburban, rural.	unambiguous_female	-
+baggage	And our country must abandon all the habits of racism, because we cannot carry the message of freedom and the baggage of bigotry at the same time.	unambiguous_female	-
+poet	An Italian poet had noticed plainclothes policemen lounging around the area of Quirinal Palace , the first time since the war .	ambiguous	neutral
+employee	And reasons other than employee need contributed to the growth .	ambiguous	neutral
+actress	Neither was what was commonly called the stage door; they were a sort of special and private stage doors used by very special performers, and in this case by the star actor and actress in the Shakespearean performance of the day.	unambiguous_female	-
+bag	Quickly but carefully lowering my duffel bag over the low side-rack , I stepped on the running board ; ; it flopped down , sprang back up and gouged my shin .	unambiguous_female	-
+man	These values give direction to the life of the middle-class man or woman , dictating the methods of child rearing , determining the pattern of community participation , setting the style for the psychiatric treatment of middle-class illness , and informing the congregational life of the major denominations .	unambiguous_male	-
+musician	Perhaps a street musician will pass to add that extra touch .	ambiguous	neutral
+lady	A lady, without a family, was the very best preserver of furniture in the world.	unambiguous_female	-
+bellboy	The bellboy unlocked a white door numbered 1105 .	unambiguous_male	-
+mother	However , such a hotbed of gossip had grown up during the trial , that every precaution had to be taken to keep my visit from being whispered to the world , Society , and even , alas , to my own mother .	unambiguous_female	-
+mistress	"No, ma'am, for my mistress."	unambiguous_female	-
+men	I left behind me brave men , whom captivity had robbed of all hope .	unambiguous_male	-
+citizen	Rare , indeed , is the Harlem citizen , from the most circumspect church member to the most shiftless adolescent , who does not have a long tale to tell of police incompetence , injustice , or brutality .	ambiguous	neutral
+writer	Henrietta was discovering in the process of writing , as the born writer does , not merely a channel for the discharge of accumulated information but a stimulus to the development of the creative powers of observation , insight and intuition .	ambiguous	neutral
+man	Whereas the eighteenth century had been a time in which man sought justice , the nineteenth and twentieth have been centuries in which men are satisfied with law .	unambiguous_male	-
+poet	The bondage endurable by an oral poet is to be estimated only by a very skilful oral poet , but it appears safe to assume that no sustained narrative in rhyme could be composed without extreme difficulty , even in a language of many terminal inflections .	ambiguous	neutral
+bride	First intercourse for the bride brings with it the various problems connected with virginity and the hymen .	unambiguous_female	-
+father	The boys had beautiful dark eyes and unlike their father they brushed constantly at the flies and blinked their eyes .	unambiguous_male	-
+citizen	Today , more than ever before , the survival of our free society depends upon the citizen who is both informed and concerned .	ambiguous	neutral
+sister	It has alienated and estranged the people of the sister States from each other, and has even seriously endangered the very existence of the Union.	unambiguous_female	-
+mechanic	The old shop adage still holds : `` A good mechanic is usually a bad boss '' .	ambiguous	m
+layman	Far from it ; ; I merely draw an etymological distinction , hoping that specialists and busy people like you will welcome such precision in a layman .	unambiguous_male	-
+men	Around that statue in the green park where children play and lovers walk in twos and there is a glowing view of the whole city , in that park are the rows of marble busts of Garibaldi's fallen men , the ones who one day rushed out of the Porta San Pancrazio and , under fire all the way , up the long , straight narrow lane to take , then lose the high ground of the Villa Doria Pamphili .	unambiguous_male	-
+aide	Since these duties fit neatly with those of the proposed presidential aide , one person , with adequate staff assistance , could fill both jobs .	ambiguous	neutral
+women	When did women begin to assert themselves sexually ? ?	unambiguous_female	-
+citizen	In this new land, education will be every citizen's most prized possession.	ambiguous	neutral
+women	It is the cry of women, my good Lord Macb.	unambiguous_female	-
+sister	You have red hair like your sister."	unambiguous_female	-
+girl	The full opportunity for every boy and girl to rise through the selective processes of education can alone secure to us this leadership.	unambiguous_female	-
+bag	There, on the lowest shelf, behind some stone jars, stood a big paper bag of brown sugar.	unambiguous_female	-
+women	The women have a reputation for giving parties that are different and are fun and this year's promises to follow in this fine tradition .	unambiguous_female	-
+beard	The man with the meek blue eyes and the pale, pointed beard endured these thunders with a certain submissive solemnity.	unambiguous_female	-
+clergyman	No less ambiguous was the indefinity of a certain clergyman's sermon .	unambiguous_male	-
+man	The man in whose breast that faith has been darkened is naturally the subject of dangerous and uncanny suggestions.	unambiguous_male	-
+mother	Poor where they had once been rich , humbled where they had been arrogant , having no longer any hope of sharing in the leadership of the nation , the rebels who would not surrender in spirit drew comfort from the sympathy they felt extended to them by the mother country .	unambiguous_female	-
+wife	The petition said that the couple has not lived together as man and wife for more than a year .	unambiguous_female	-
+women	We believed then and now there are no limits to growth and human progress when men and women are free to follow their dreams.	unambiguous_female	-
+author	`` Billions of American dollars , not only from capital investors but also from the pockets of U.S. taxpayers '' , this author states , `` are being poured into South Africa to support a system dedicated to the oppression , the persecution , and the almost diabolical exploitation of 12 million people the color of whose skins happens not to be white '' .	ambiguous	neutral
+lady	Perhaps a maiden lady on Clapham Common is only the policeman that might have been.	unambiguous_female	-
+fellow	Claiming a right of suffrage, in common with my fellow-citizens, in the adoption or rejection of a constitution which was to rule me and my posterity, as well as them and theirs, I did not hesitate to express my approbation of it on all occasions, in public and in private.	unambiguous_male	-
+fellow	I am satisfied--I see, dance, laugh, sing; As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the peep of the day with stealthy tread, Leaving me baskets cover'd with white towels swelling the house with their plenty, Shall I postpone my acceptation and realization and scream at my eyes, That they turn from gazing after and down the road, And forthwith cipher and show me to a cent, Exactly the value of one and exactly the value of two, and which is ahead?	unambiguous_male	-
+writer	For example , a writer in a recent number of The Queen hyperbolically states that `` of the myriad imprecations the only one which the English Catholics really resent is the suggestion that they are ' un-English ' '' .	ambiguous	neutral
+man	Get my old man to bed early .	unambiguous_male	-
+town	If in a town of 2,000 private homes , half of them have shelters , the need for the community shelters will be reduced to that extent .	unambiguous_male	-
+men	Righteous in their denunciation of all that makes for death , the beat prophets bid all men become cool cats ; ; let them learn to `` swing '' freely , to let go , to become authentically themselves , and then perhaps civilization will be saved .	unambiguous_male	-
+salesman	I am a carpet salesman .	unambiguous_male	-
+undersecretary	The undersecretary's in there .	ambiguous	neutral
+citizen	It was then that I availed myself of the rights of a citizen and declared the income tax unconstitutional .	ambiguous	neutral
+woman	The manager of the motel was a woman who apparently didn't care .	unambiguous_female	-
+wife	Because thou hast hearkened to the voice of thy wife, And eaten of the tree, concerning which I charged thee, saying, Thou shalt not eat thereof:	unambiguous_female	-
+woman	You're going to need your woman .	unambiguous_female	-
+man	Whilst the question of specie payments is in abeyance the prudent business man is careful about contracting debts payable in the distant future.	unambiguous_male	-
+dame	The dame of dames!	unambiguous_female	-
+woman	My new Aunt was perhaps three or four years older than I and it had been a long time since I had seen as gorgeous a woman who oozed sex .	unambiguous_female	-
+policeman	You can't tell the anarchists I'm a policeman.	unambiguous_male	-
+servant	You shall be the servant of the servants, and your companion shall, be the jester's ape."	ambiguous	neutral
+actor	This is an exciting young actor to watch .	ambiguous	m
+horseman	The horseman required eleven times more than the footman .	unambiguous_male	-
+writer	For some time this writer has been suggesting a Junior Judging Class for Intermediates over 16 and under 20 years of age who are ineligible to compete in the Junior Class .	ambiguous	neutral
+butcher	The road past the butcher shop took us along the side of a stream .	ambiguous	m
+women	Altogether, they will have five hundred a-year amongst them, and what on earth can four women want for more than that?--They will live so cheap!	unambiguous_female	-
+statesman	Were I as the head teacher, charitable proprietor, wise statesman, what would it amount to?	unambiguous_male	-
+student	Those who have served as faculty advisers are too familiar with the useful but artificial mechanisms of student government to be taken in by `` busy-work '' and ersatz decision making .	ambiguous	neutral
+housekeeper	"My cold turkey, as I'm alive!" exclaimed the housekeeper, darting upon it with horror and amazement.	ambiguous	f
+artist	People think the dress in the picture was lengthened by an artist much later on .	ambiguous	neutral
+men	These two men have met here today and have quarrelled, using blows and a bare weapon."	unambiguous_male	-
+mother	Carpenters all wanted steady work and at the moment every mother's son for twenty miles around that could hammer nails for twenty-five dollars a day was working on the school job .	unambiguous_female	-
+women	Its preaching and its music give refreshment of spirit to men and women living under heavy strain .	unambiguous_female	-
+man	`` You know who the other man was '' ? ?	unambiguous_male	-
+daughter	The Musgroves are behaving like themselves, most honourably and kindly, only anxious with true parental hearts to promote their daughter's comfort.	unambiguous_female	-
+girl	`` I like the tradition '' , a girl said .	unambiguous_female	-
+aunt	I have an aunt who lived over a shop, but this is the first time I have found people living from preference under a public-house.	unambiguous_female	-
+student	In both cases the student attends school half-time and works in a regular job the other half .	ambiguous	neutral
+man	You MUST have meant some mischief, or else you'd have signed your name like an honest man.'	unambiguous_male	-
+ordinary	The jury also commented on the Fulton ordinary's court which has been under fire for its practices in the appointment of appraisers , guardians and administrators and the awarding of fees and compensation .	unambiguous_male	-
+girl	But I'd been a good girl and now God was blessing me with the gift of this magnificent man and the wondrous love we shared .	unambiguous_female	-
+daughter	Thou wilt bring me soon To that new world of light and bliss, among The gods who live at ease, where I shall reign At thy right hand voluptuous, as beseems Thy daughter and thy darling, without end."	unambiguous_female	-
+student	The President said the nation's 92 medical and 47 dental schools cannot now handle the student load needed to meet the rising need for health care .	ambiguous	neutral
+thrush	Far from the clank of crowds intervals passing rapt and happy, Aware of the fresh free giver the flowing Missouri, aware of mighty Niagara, Aware of the buffalo herds grazing the plains, the hirsute and strong-breasted bull, Of earth, rocks, Fifth-month flowers experienced, stars, rain, snow, my amaze, Having studied the mocking-bird's tones and the flight of the mountain-hawk, And heard at dawn the unrivall'd one, the hermit thrush from the swamp-cedars, Solitary, singing in the West, I strike up for a New World.	unambiguous_female	-
+man	The physical configuration of the earth has separated us from all of the Old World, but the common brotherhood of man, the highest law of all our being, has united us by inseparable bonds with all humanity.	unambiguous_male	-
+bag	A picnic bag , a grill , a cooler for soft drinks and beer , and for frozen convenience foods .	unambiguous_female	-
+female	We hope thereby to emphasize that , from a psychological standpoint , the effectual prevention of illegitimacy is a continuous long-term process involving the socialization of the female from infancy through adolescence .	unambiguous_female	-
+woman	Sympathy is a fine quality in a woman .	unambiguous_female	-
+captain	The brigand captain took the large paper from the attendant brigand and, glancing over it, continued: "My other intentions are clearly set forth in this public document, which I will hand round in a moment; and which after that will be posted on a tree by every village in the valley, and every cross-road in the hills.	ambiguous	m
+man	The old man was almost too possessive .	unambiguous_male	-
+woman	One of the most appealing of the rooftop canvases is `` Sun And Wind On The Roof '' , with a woman and child bracing themselves against flapping clothes and flying birds .	unambiguous_female	-
+dog	The volume and , perhaps , even the characteristics of bronchial arterial blood flow might be different in the dog than in the horse .	unambiguous_male	-
+fellow	Come one you here this fellow in the selleredge Consent to sweare Hor.	unambiguous_male	-
+wife	At its most ecstatic moments , husband and wife are elevated far above worldly cares .	unambiguous_female	-
+girl	Asked a red-haired girl named Ceecee Witter .	unambiguous_female	-
+woman	Let me not thinke on't: Frailty, thy name is woman.	unambiguous_female	-
+count	So a quick count could be made at any time , even by an illiterate clerk , of the number of registered persons in four age-and-sex classes .	unambiguous_male	-
+guy	We don't know this guy '' .	unambiguous_male	-
+gentleman	`` Ah , then please tell me where the frontier is because this gentleman here '' --	unambiguous_male	-
+woman	The old woman had a nephew from North Italy , a poor boy from a lumber mill who had got tired of the seasonal unemployment , and who had migrated to Canada to work on the railway .	unambiguous_female	-
+man	It is not a substitute for sex but a dynamic expression of the creative impulse in unfettered man .	unambiguous_male	-
+man	So great a man could not but understand , too , that the thing that moves men to sacrifice their lives is not the error of their thought , which their opponents see and attack , but the truth which the latter do not see -- any more than they see the error which mars the truth they themselves defend .	unambiguous_male	-
+women	The attitude of women in such cases was indeed one of the paradoxes of the place.	unambiguous_female	-
+men	`` It's a house of prostitution for white men with white girls as inmates .	unambiguous_male	-
+writer	Perhaps you would like to become a writer .	ambiguous	neutral
+man	There are , after all , fortunate souls who hear everything , but only know how to listen to what is good for them , and Stowey was , as things go , a fortunate man .	unambiguous_male	-
+women	The women who come to West Venice , having forsaken radicalism , are interested in living only for the moment , in being constantly on the move .	unambiguous_female	-
+mother	Be friends with your mother-in-law .	unambiguous_female	-
+woman	In I knew you when you were a child , and you were pretty then dominant stress on then implies that the young woman spoken to is still pretty .	unambiguous_female	-
+artist	To find a form that accommodates the mess , that is the task of the artist now '' .	ambiguous	neutral
+priest	The golden-haired people had a great chieftain who was also a kind of high priest, who was called the Dagda.	ambiguous	m
+men	In one company covering the country with a high-quality sales force of 10 men , the president personally phones each major account every 6 mos. .	unambiguous_male	-
+maid	The maid was very black and very energetic , trim in a yellow pique uniform .	unambiguous_female	-
+sir	You sir, what Trade are you?	unambiguous_male	-
+architect	The hasty multitude Admiring entered; and the work some praise, And some the architect.	ambiguous	m
+bluestocking	The casual seduction of a seventeen-year-old bluestocking seemed tame by comparison .	unambiguous_female	-
+maid	`` There was nothing else I could do '' , the maid answered , satisfied with a rather vague explanation .	unambiguous_female	-
+artist	The true artist is like one of those scientists who , from a single bone can reconstruct an animal's entire body .	ambiguous	neutral
+men	Two uniformed officers , a couple of plain-clothesmen I knew , and two other men stood on a gray cement area next to the pool on my left .	unambiguous_male	-
+woman	"Will you stand there talking nonsense about yourself with a woman to save and three strong men to help you?	unambiguous_female	-
+men	The men who mine coal and fire furnaces and balance ledgers and turn lathes and pick cotton and heal the sick and plant corn -- all serve as proudly, and as profitably, for America as the statesmen who draft treaties and the legislators who enact laws.	unambiguous_male	-
+bride	`` Maybe the society editor would remember a good-looking out-of-town bride '' .	unambiguous_female	-
+lady	Equally penetrating in its fashion is the following remark by a lady in the course of a literary conversation : `` So much has already been written about everything that you can't find out anything about it '' .	unambiguous_female	-
+soldier	In the corner was the soldier with the white flag .	ambiguous	m
+housewife	Subtitled A Farmwife's Almanac Of Country Living , this is a gentle and nostalgic chronicle of the changing seasons seen through the clear , humorous eye of a Hoosier housewife and popular columnist .	unambiguous_female	-
+girl	The girl was not more than 16 .	unambiguous_female	-
+servant	It was driven by a servant in mourning.	ambiguous	neutral
+woman	When something unexpected happened , one always asked for water if one were a woman , brandy if one were a man .	unambiguous_female	-
+woman	Another specimen of such double-entendre is illustrated by a woman in a department store .	unambiguous_female	-
+gentlemen	They buy some supplies from our colored grocers and they are patronized by some of the best white gentlemen in town '' .	unambiguous_male	-
+men	Therefore as through one man sin entered into the world and through sin death , and thus death has passed unto all men because all have sinned .	unambiguous_male	-
+citizen	`` Is this the type of citizen you desire '' ? ?	ambiguous	neutral
+woman	On the fringe of the amused throng of white onlookers stood a young woman of remarkable beauty and poise .	unambiguous_female	-
+author	The author of the anonymous notes seemed to be all-knowing .	ambiguous	neutral
+woman	The ordinary man and woman , however , saw little of the great professional games of those Golden Days , or of any other sporting event for that matter .	unambiguous_female	-
+gentlemen	Go home, gentlemen, go home.	unambiguous_male	-
+men	No people can be bound to acknowledge and adore the Invisible Hand which conducts the affairs of men more than those of the United States.	unambiguous_male	-
+captain	And because fortune had favored neither the prisoner nor the red-haired captain , they would be each other's undoing .	ambiguous	m
+man	`` The accommodations may not be the poshest , but man ! !	unambiguous_male	-
+observer	Occasionally , you may come across one or two bumblebees in the cold season , when you are turning over sods in your garden , but you have to be a really keen observer to see them at all .	ambiguous	neutral
+student	The lower-middle class college student One of the reasons for the high percentage of Jewish teen-agers in college is that a great many urban Jews are enabled to attend local colleges at modest cost .	ambiguous	neutral
+page	Those are the nectaries or honey glands ( Fig. 26 , page 74 ) .	unambiguous_male	-
+town	Radio broadcasts had not begun and most devotees of baseball attended the games near home , in the town park or a pasture , with perhaps two or three trips to the city each season to see the Cubs or the Pirates or the Indians or the Red Sox .	unambiguous_male	-
+women	If women replaced people , it would normally have dominant stress .	unambiguous_female	-
+men	As our victory showed, the entire nation is rapidly unifying behind our agenda with dramatic increases in support from virtually every element of our society: young and old, men and women, African Americans, Hispanic Americans, Asian Americans, urban, suburban, rural.	unambiguous_male	-
+consultant	In addition , the Office's domestic trade program provided consultant services to those seeking information on establishment of new businesses ; ; how and where to apply for financial assistance ; ; details on marketing ; ; information concerning patents , copyrights and trade marks , availability of technical reports , and other subjects of interest to small business .	ambiguous	neutral
+daughter	Typically , in a lower-middle class Jewish family , a son will be sent to an out-of-town school , if financial resources warrant it , while the daughter will attend the local college .	unambiguous_female	-
+man	Among the policy makers , generals , physicists , psychologists and others charged with controlling the actions of the button pushers and their `` hardware '' , the answers to my questions varied partly according to a man's flair for what the professionals in this field call `` scenarios '' .	unambiguous_male	-
+men	And it may be that one or both men actually welcomed the opportunity , when the bravado comments are cast aside .	unambiguous_male	-
+men	The men and women of this country who toil are the ones who bear the cost of the Government.	unambiguous_male	-
+women	We dwell a while in every city and town, We pass through Kanada, the North-east, the vast valley of the Mississippi, and the Southern States, We confer on equal terms with each of the States, We make trial of ourselves and invite men and women to hear, We say to ourselves, Remember, fear not, be candid, promulge the body and the soul, Dwell a while and pass on, be copious, temperate, chaste, magnetic, And what you effuse may then return as the seasons return, And may be just as much as the seasons. }	unambiguous_female	-
+ladies	Then some pretty ladies, with white caps on their heads and white aprons over their blue dresses, came bringing little parcels.	unambiguous_female	-
+women	America will not pretend that jailed dissidents prefer their chains, or that women welcome humiliation and servitude, or that any human being aspires to live at the mercy of bullies.	unambiguous_female	-
+man	This was the big man with the proprietory air and the beetling , shaggy eyebrows .	unambiguous_male	-
+bag	I forgot, I was nigh letting the cat out o' the bag again.	unambiguous_female	-
+analyst	I am not making a clinical judgment here , for such personal tragedies are real and are commonplace in the analyst's consulting room , but literature makes a different claim upon our sympathies than tragedy in life .	ambiguous	neutral
+poet	One beat poet composes a poem , `` Lines On A Tijuana John '' , which contains a few happy hints for survival .	ambiguous	neutral
+fellow	But the source to which I look or the aids which alone can supply my deficiencies is in the well-tried intelligence and virtue of my fellow-citizens, and in the counsels of those representing them in the other departments associated in the care of the national interests.	unambiguous_male	-
+secretary	Conflict surveyed The secretary's greatest achievement is perhaps the rekindling of NATO realization that East-West friction , wherever it take place around the globe , is in essence the general conflict between two entirely different societies , and must be treated as such without regard to geographical distance or lack of apparent connection .	ambiguous	f
+daughter	I have brought my other son and daughter to see you.	unambiguous_female	-
+men	We admit of no government by divine right, believing that so far as power is concerned the Beneficent Creator has made no distinction amongst men; that all are upon an equality, and that the only legitimate right to govern is an express grant of power from the governed.	unambiguous_male	-
+woman	A Protestant woman marveled to me over the large crowds going in and out of the Birmingham Oratory ( Catholic ) Church on Sunday mornings .	unambiguous_female	-
+worker	The social security payroll tax is now 6 per cent -- 3 per cent on each worker and employer -- on the first $4,800 of pay per year .	ambiguous	neutral
+sister	Were mankind murderous or jealous upon you, my brother, my sister?	unambiguous_female	-
+women	This time there was no sound of brakes but the shrieking of women .	unambiguous_female	-
+female	In contrast , Ditmars recorded the average length of seventy-two young of a 19-foot female as 38 inches , and four young were born in London at a length of 35 or 36 inches and a weight of from 14 to 16 ounces .	unambiguous_female	-
+landlady	Now, to see me coming, nobody would take me to be a landlady.	unambiguous_female	-
+men	They had white skins and blue eyes ; ; all their men were bearded , and many of their women were beautiful .	unambiguous_male	-
+man	The man uttered a weird cry , spun about , and collapsed in the sand .	unambiguous_male	-
+maid	Running down stairs, I quickly stated my suspicions to the first person I met--the chamber-maid.	unambiguous_female	-
+fellow	Promoters always hastened to place their choice tickets in the hands of the wealthy speculators , and only the man who knew the man who knew the fellow who had an in with the guy at the box office ever came up with a good seat for a contest of any importance .	unambiguous_male	-
+man	`` Did you ever know a man with greater zest for information ? ?	unambiguous_male	-
+author	In each old song bequeath'd--in every noble page or text, (Different--something unreck'd before--some unsuspected author,) In every object, mountain, tree, and star--in every birth and life, As part of each--evolv'd from each--meaning, behind the ostent, A mystic cipher waits infolded.	ambiguous	neutral
+man	I started to say something else appropriate , but the man had hung up .	unambiguous_male	-
+wife	But they deliberately avoided the one subject that had them all curious : the failure of the boss's wife and son to join the outfit .	unambiguous_female	-
+captain	"Where away?" demanded the captain.	ambiguous	m
+matron	Witness the streets of Sodom, and that night In Gibeah, when the hospitable door Exposed a matron, to avoid worse rape.	unambiguous_female	-
+town	Somebody in this town must still have some backbone '' .	unambiguous_male	-
+wife	`` Neither me nor my wife were helped by that chiropractor's treatments '' .	unambiguous_female	-
+men	I asked the same questions inside the launch-control rooms of an Atlas missile base in Wyoming , where officers who wear sidearms are manning the `` commit buttons '' that could start a war -- accidentally or by design -- and in the command centers where other pistol-packing men could give orders to push such buttons .	unambiguous_male	-
+worker	Follow-up visits of the nurse and social worker indicated continued success in the care of the new babies as well as a marked improvement in the family's day-to-day mental health and social functioning .	ambiguous	neutral
+man	This is the high enterprise of the new day: To lift everything that concerns our life as a Nation to the light that shines from the hearthfire of every man's conscience and vision of the right.	unambiguous_male	-
+clergyman	In general , friendly contact with a member followed by contact with a clergyman will account for a major share of recruitment by the churches , making it quite evident that the extension of economic integration through co-optation is the principal form of mission in the contemporary church ; ; economic integration and co-optation are the two methods by which Protestants associate with and recruit from the neighborhood .	unambiguous_male	-
+businessman	After all , the money dispensed by State goes not to the farmer , the laborer , or the businessman , but to foreigners .	unambiguous_male	-
+daughter	Before being daughter , wife , or mother , before being cultured ( a word now bereft both socially and politically of the sheen you children of frontiersmen bestowed on it ) , before being sorry for the poor , progressive about public health , and prettily if somewhat imprecisely humanitarian , indeed first and foremost , you were a lady .	unambiguous_female	-
+student	In fact , we had one birth before the end of the course , and another student had to take the final examiantion a week early , just to be on the safe side .	ambiguous	neutral
+girl	The waves breakin in on you and your girl at night there on the warm beach in the moonlight .	unambiguous_female	-
+men	They deserve the generous encouragement of all good men.	unambiguous_male	-
+gentlemen	The presiding female functionary , of massive proportions and forbidding appearance , initially did not contribute to the expressions of friendship and welcome by a number of dignified gentlemen representing the arts .	unambiguous_male	-
+warden	No warden or guard to touch lock , key or doorknob except when accompanied by a prisoners' committee with powers of veto .	ambiguous	m
+singer	One must ask a wit, like a fine singer, so often.	ambiguous	neutral
+nurse	Pick'd sparingly without noise by thee old ocean, chosen by thee, Thou sea that pickest and cullest the race in time, and unitest nations, Suckled by thee, old husky nurse, embodying thee, Indomitable, untamed as thee.	ambiguous	f
+administrator	I cannot accept that view , either as a lawyer or as an administrator .	ambiguous	neutral
+financier	"Not of two thousand pounds," said the financier, with an abrupt and terrible composure, "only of a small bottle."	ambiguous	m
+woman	That'll be a comfort, one way--never to be an old woman--but then--always to have lessons to learn!	unambiguous_female	-
+men	In the meantime, as the nation's wards, they should be promptly defended against the cupidity of designing men and shielded from every influence or temptation that retards their advancement.	unambiguous_male	-
+women	The annual butchery of 40,000 American men , women and children to satiate its blood-lust is excessive ; ; a quota of 25,000 a year would be more than sufficient .	unambiguous_female	-
+poet	And this was strongest of all on one particular evening, still vaguely remembered in the locality, of which the auburn-haired poet was the hero.	ambiguous	neutral
+women	Our brave men and women in uniform, tempered by the flames of battle, are unmatched in skill and courage.	unambiguous_female	-
+wife	Once the Old Man had had a wife .	unambiguous_female	-
+blade	"Here, now, ma'am, just sticking, as it were here, between the blade and the haft, was the silver penny.	unambiguous_male	-
+woman	The heart of woman is?	unambiguous_female	-
+women	The one- or two-season hunt , of which there have been too many recently , may do more harm than good ; ; for such programs raise hopes of assistance toward achieving excellence in scholarship and the arts which are dashed when the programs are discontinued ; ; and they are dashed , no less , by lack of skill in making selections of men and women for development toward the highest reaches of the mind and spirit .	unambiguous_female	-
+girl	In general , however , it may be said that when a boy or a girl leaves the high school , the school authorities play little or no part in the decision of what happens next .	unambiguous_female	-
+bag	I closed the last bag and stood all three at the door for the bellboy to pick up , then went to the bathroom for a drink of water .	unambiguous_female	-
+bag	"I wish the beastly gas-bag would burst!"	unambiguous_female	-
+poet	True reality , of course , is the ideal , and the poet knows nothing of this ; ; only the philosopher knows the truth .	ambiguous	neutral
+women	One of the significant developments in American-Jewish life is that the cultural consumers are largely the women .	unambiguous_female	-
+artist	The new promotion manager has been employed by the company since January , 1946 , as a commercial artist in the advertising department .	ambiguous	neutral
+writer	Thus , the writer decided to hold one experimental section of the functional preparation for marriage course in the spring semester of 1960 exclusively for persons already married -- that is , prerequisite : `` marriage '' .	ambiguous	neutral
+man	The fat man said , `` All we gotta do is go around the corner '' .	unambiguous_male	-
+woman	"You were living with your husband, and were the only woman on board."	unambiguous_female	-
+novelist	In our own time we have seen that the novelist's debt to psychoanalysis has increased but that the novel itself has not profited much from this marriage .	ambiguous	neutral
+men	As summer cooled into fall and winter , even so the relationship between the two men continued to grow colder by the day , and by December of 1834 it was icy .	unambiguous_male	-
+town	A Southerner married to a New Englander , I have lived for many years in a Connecticut commuting town with a high percentage of artists , writers , publicity men , and business executives of egghead tastes .	unambiguous_male	-
+man	The man with the meek blue eyes and the pale, pointed beard endured these thunders with a certain submissive solemnity.	unambiguous_male	-
+artist	THE JEALOUS COURTIERS I wonder if you have ever heard the anecdote about the artist of Duesseldorf and the jealous courtiers.	ambiguous	neutral
+attorney	The attorney general has advised local police that it is their duty to enforce the blue laws .	ambiguous	neutral
+captain	The last time the captain had eight hundred, the time before a thousand, pounds.	ambiguous	m
+town	I won't be in town for a couple of days , though , and there's that case I was supposed to handle this afternoon .	unambiguous_male	-
+artist	The worthy Mondrian , seeing these pictures , said in a tone of kindly reproof : `` But you are really an artist of the naturalistic tradition '' ! !	ambiguous	neutral
+sister	To our sister republics south of our border, we offer a special pledge -- to convert our good words into good deeds -- in a new alliance for progress -- to assist free men and free governments in casting off the chains of poverty.	unambiguous_female	-
+girl	What is the foolish girl about?"	unambiguous_female	-
+observer	And perhaps an observer of the vases will not go too far in deducing that the outlook of their makers and users was basically stable and secure .	ambiguous	neutral
+dancer	I am no dancer."	ambiguous	f
+student	A careful student has suggested that `` In any new revision ( of the Judicial Code ) the legislators would do well to remember that the allocation of power to the federal courts should be limited to those matters in which their expertise in federal law might be used , leaving to the state judiciaries the primary obligation of pronouncing state law '' .	ambiguous	neutral
+woman	The pert , gray-haired woman who came to Denver three years ago from Buffalo , N.Y. , is a `` civilian '' with the Army .	unambiguous_female	-
+man	I think I was what you might call a convivial man , and yet it was when I was alone in my studio , doing my work , that I really felt alive .	unambiguous_male	-
+duke	"But the duke had nothing to do with taking this fish?"	unambiguous_male	-
+sister	I felt for my sister most severely.	unambiguous_female	-
+gentleman	We must be serious and decided; for after all, the person who has contracted debts must pay them; and though a great deal is due to the feelings of the gentleman, and the head of a house, like your father, there is still more due to the character of an honest man."	unambiguous_male	-
+preacher	`` Somebody's got to be a preacher in the family .	ambiguous	m
+husband	I would like very much , on behalf of my husband and myself , to send our eternal thanks to all the wonderful people responsible for the Gabrielle Fund .	unambiguous_male	-
+man	That's what the man had said .	unambiguous_male	-
+son	Your 16 year old son earned $720 in 1961 .	unambiguous_male	-
+son	I have brought my other son and daughter to see you.	unambiguous_male	-
+author	The author has recently studied the field of medical electronics and has been convinced that , in this area alone , the application of electronic equipment has enormous possibilities .	ambiguous	neutral
+men	Joking and talking may be freer and easier , but the important factual information is still lacking for far too many newly-married men and women .	unambiguous_male	-
+magician	Investors breathed more freely when it was learned that this acrobatic dancer had turned magician and was only doing a best seller book to make some dough .	ambiguous	m
+president	Mississippi's relations with the national Democratic party will be at a crossroads during 1961 , with the first Democratic president in eight years in the White House .	ambiguous	m
+girl	`` Oh , shucks '' , the girl said .	unambiguous_female	-
+poet	Many potters clung to the past the more determinedly as they were confronted with radically new ideas ; ; the poet of the Iliad deliberately archaized .	ambiguous	neutral
+butcher	The ivory Pequod was turned into what seemed a shamble; every sailor a butcher.	ambiguous	m
+men	THE FAIRIES Up the airy mountain, Down the rushy glen, We daren't go a-hunting For fear of little men.	unambiguous_male	-
+mother	It was a simple ivory crucifix which my mother had given me .	unambiguous_female	-
+man	There was, however, another man on board, so to speak, at the time.	unambiguous_male	-
+baggage	Retreating they had form'd in a hollow square with their baggage for breastworks, Nine hundred lives out of the surrounding enemies, nine times their number, was the price they took in advance, Their colonel was wounded and their ammunition gone, They treated for an honorable capitulation, receiv'd writing and seal, gave up their arms and march'd back prisoners of war.	unambiguous_female	-
+ma'am	"I must not tell, ma'am.	unambiguous_female	-
+gangster	But because it was a suspense gangster story of the Capone era , many of us felt that it might catch on for a run in Chicago , continue as a road company , and eventually become a movie .	ambiguous	m
+student	Each trial consists of choosing a student manager at random .	ambiguous	neutral
+man	`` Fuss , fuss , old man '' .	unambiguous_male	-
+boy	Often , I heard my uncles and cousins speak of it when I was a small boy growing up in Rabaul .	unambiguous_male	-
+men	Wing Commanders in the RAF do not imply survival in the future either in their orders or in their attitudes , to their men or to themselves .	unambiguous_male	-
+town	The mayor of the town taught them English and French .	unambiguous_male	-
+squire	Pulled down it was, in the old squire's time, and----"	unambiguous_female	-
+man	Secretary of State Seward was a sick man .	unambiguous_male	-
+woman	Thou was't borne of woman; But Swords I smile at, Weapons laugh to scorne, Brandish'd by man that's of a Woman borne.	unambiguous_female	-
+citizen	At the same time, the candid citizen must confess that if the policy of the Government upon vital questions affecting the whole people is to be irrevocably fixed by decisions of the Supreme Court, the instant they are made in ordinary litigation between parties in personal actions the people will have ceased to be their own rulers, having to that extent practically resigned their Government into the hands of that eminent tribunal.	ambiguous	neutral
+performer	In each case , the object , the color , even the percussive sounds of the electronic score were designed to become part of the theatrical being of the performer .	ambiguous	neutral
+women	Elsewhere others heard and stopped and waited , the women peering from their lodges then gathering in small , curious clusters .	unambiguous_female	-
+man	Holiness without which no man will see God .	unambiguous_male	-
+man	A man in Mississippi wired : `` Thanks for drawing 258 -- that's me '' .	unambiguous_male	-
+woman	It then occurred to me to ask , `` Is that what that woman told you '' ? ?	unambiguous_female	-
+woman	You did something to me that no man born of woman has ever succeeded in doing before."	unambiguous_female	-
+actor	In all of this extensive and expensive effort , the camera was downgraded to the status of recording instrument for art work produced elsewhere by the actor or by the author .	ambiguous	m
+woman	There was , of course , no special reason to believe that the man or woman they sought had stayed only overnight at the hotel .	unambiguous_female	-
+mother	I am the poet of the woman the same as the man, And I say it is as great to be a woman as to be a man, And I say there is nothing greater than the mother of men.	unambiguous_female	-
+artist	It might be argued that the Communists are less inhuman than the Nazis and furnish the artist with drama in a lower key .	ambiguous	neutral
+ladies	Even in Broadway and Chestnut streets, Mediterranean mariners will sometimes jostle the affrighted ladies.	unambiguous_female	-
+gentleman	The gentleman who has for some time past played, with propriety and general applause, the difficult part of Thursday, has died quite suddenly.	unambiguous_male	-
+women	Public relations strategists everywhere , watching the reaction of the German press , the liberal press , the lunatic-fringe press , listening to their neighbors , studying interviews with men and women on the street , cried out : Too much , too much -- the mind of the audience is becoming dulled , the horrors are losing their effect .	unambiguous_female	-
+mistress	A very gracious invitation was returned, and the evening no longer dreaded by the fair mistress of the mansion.	unambiguous_female	-
+attorney	In connection with any claim decided by the Commission pursuant to this Title in which an award is made , the Commission may , upon the written request of the claimant or any attorney heretofore or hereafter employed by such claimant , determine and apportion the just and reasonable attorney's fees for services rendered with respect to such claim , but the total amount of the fees so determined in any case shall not exceed 10 per centum of the total amount paid pursuant to the award .	ambiguous	neutral
+debutante	Mother even went so far as to trump up for me matrimonial opportunities with Pasadena debs who had been educated abroad , and with those of the more lenient Los Angeles area where a debutante was a girl who had been to high school .	unambiguous_female	-
+servant	"Are you certain that no servant, no porter has left any letter or note?"	ambiguous	neutral
+author	The whale has no famous author, and whaling no famous chronicler, you will say.	ambiguous	neutral
+woman	`` When that woman found me and told me that you needed me I was never so happy since before the war '' .	unambiguous_female	-
+mother	A Sterling Township family of six surviving children , whose mother died yesterday as the aftermath to a fire that also killed one of the children , found today they had the help of hundreds of neighbors and school friends .	unambiguous_female	-
+boy	Then , after I'm back , another fifty so you can put some mileage on yourself and have a solid alibi somewhere while I take care of your seat cover boy '' .	unambiguous_male	-
+comedian	Everywhere there are little touches of humor , and the leader of the on-stage band of musicians is an ebullient comedian who plays all sorts of odd instruments with winning warmth .	ambiguous	neutral
+woman	But with the exception of professional athletes , few contact sports and physical education activities in our schools have any carryover in the adult life of the average American man or woman .	unambiguous_female	-
+women	A knot of old worshippers , chiefly women , listened weekly to a sermon .	unambiguous_female	-
+sir	`` No sir .	unambiguous_male	-
+student	For a number of years , Wesleyan has been drawing varied groups of political and business leaders into these informal discussions with members of the faculty and student body , attempting to explore and clarify aspects of their responsibility for public policy .	ambiguous	neutral
+correspondent	To cherish peace and friendly intercourse with all nations having correspondent dispositions; to maintain sincere neutrality toward belligerent nations; to prefer in all cases amicable discussion and reasonable accommodation of differences to a decision of them by an appeal to arms; to exclude foreign intrigues and foreign partialities, so degrading to all countries and so baneful to free ones; to foster a spirit of independence too just to invade the rights of others, too proud to surrender our own, too liberal to indulge unworthy prejudices ourselves and too elevated not to look down upon them in others; to hold the union of the States as the basis of their peace and happiness; to support the Constitution, which is the cement of the Union, as well in its limitations as in its authorities; to respect the rights and authorities reserved to the States and to the people as equally incorporated with and essential to the success of the general system; to avoid the slightest interference with the right of conscience or the functions of religion, so wisely exempted from civil jurisdiction; to preserve in their full energy the other salutary provisions in behalf of private and personal rights, and of the freedom of the press; to observe economy in public expenditures; to liberate the public resources by an honorable discharge of the public debts; to keep within the requisite limits a standing military force, always remembering that an armed and trained militia is the firmest bulwark of republics -- that without standing armies their liberty can never be in danger, nor with large ones safe; to promote by authorized means improvements friendly to agriculture, to manufactures, and to external as well as internal commerce; to favor in like manner the advancement of science and the diffusion of information as the best aliment to true liberty; to carry on the benevolent plans which have been so meritoriously applied to the conversion of our aboriginal neighbors from the degradation and wretchedness of savage life to a participation of the improvements of which the human mind and manners are susceptible in a civilized state -- as far as sentiments and intentions such as these can aid the fulfillment of my duty, they will be a resource which can not fail me.	ambiguous	neutral
+woman	The crowd at the twenty-first annual K. of C. Games , final indoor meet of the season , got a thrill a few minutes earlier when a slender , bespectacled woman broke the one-week-old world record in the half-mile run .	unambiguous_female	-
+priest	Which is madder, the Spanish priest who permitted tyranny, or the Prussian sophist who admired it?	ambiguous	m
+writer	Now , with virtually every writer , not only was the European origin of public law acknowledged as a historical phenomenon , but the rules thus established by the advanced civilizations of Europe were to be imposed on others .	ambiguous	neutral
+men	There were several men of ninety or more whom I knew first or last , all of whom were still productive and most of whom knew one another as if they had naturally come together at the apex of their lives .	unambiguous_male	-
+correspondent	Your present correspondent thinks that this, like many other journalistic customs, is bad journalism; and that the Daily Reformer has to set a better example in such things.	ambiguous	neutral
+broad	might I here In solitude live savage; in some glade Obscured, where highest woods, impenetrable To star or sun-light, spread their umbrage broad And brown as evening:	unambiguous_female	-
+butler	But the alien colour culminated in the fact that, besides the butler, the Admiral's only servants were two negroes, somewhat quaintly clad in tight uniforms of yellow.	ambiguous	m
+narrator	`` I thought I knew more than my education had taught me , '' notes the narrator , `` because I had encountered the militant mobs of a political or religious faith '' .	ambiguous	neutral
+worker	The worker who lives on a farm cannot change jobs readily .	ambiguous	neutral
+fellow	There I was a retired wobbly and structural iron worker who'd never gouged a cent off a fellow worker in my thirty years in the movement .	unambiguous_male	-
+men	The proponents are scientific and technical men who exercise considerable influence on their military counterparts .	unambiguous_male	-
+man	Does this man live in a neighborhood where all are free loaders unwilling to help themselves , but ready to demand that `` the community '' help and protect them ? ?	unambiguous_male	-
+woman	It is very right that you SHOULD go to town; I would have every young woman of your condition in life acquainted with the manners and amusements of London.	unambiguous_female	-
+man	The next man to stand here will look out on a scene different from our own, because ours is a time of change -- rapid and fantastic change bearing the secrets of nature, multiplying the nations, placing in uncertain hands new weapons for mastery and destruction, shaking old values, and uprooting old ways.	unambiguous_male	-
+boy	`` That's Johnny '' , sighed the bank president , `` the best-hearted boy in the world , but absent-minded '' .	unambiguous_male	-
+lady	"I do not think this young lady is so Celtic as I had supposed.	unambiguous_female	-
+curator	A curator has been appointed .	ambiguous	neutral
+women	They even accept the `` double standard '' of sex morality in a double sense , i.e. , both sexes agree that standards for men differ from standards for women , and women apply to both sexes a standard different from that held by men .	unambiguous_female	-
+employee	Further increases arise from the civilian employee health program enacted by the Congress last year .	ambiguous	neutral
+nephew	Choose the poor, blind boy's coat, my dear nephew, and pay for it.	unambiguous_male	-
+ladies	Though the white vapour was still a veil, it was like the gauzy veil of a transformation scene in a pantomime; for through it there glowed shapeless masses of colour, masses which might be clouds of sunrise or mosaics of gold and crimson, or ladies robed in ruby and emerald draperies.	unambiguous_female	-
+girl	"It would be in the newspapers, of course," said the girl.	unambiguous_female	-
+women	A posse is formed and pursues the robbers , who , having made their escape , are whooping it up with some wild , wild women in a honky-tonk hide-out .	unambiguous_female	-
+men	Practices of the unscrupulous money changers stand indicted in the court of public opinion, rejected by the hearts and minds of men.	unambiguous_male	-
