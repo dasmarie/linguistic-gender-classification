@@ -29,6 +29,8 @@ With all dependencies installed, the code should run, provided the repository st
 
 To apply the different classifiers, use the code below:
 
+(The example sentence used to demonstrate the usage is taken from Anne of Green Gables by Lucy Maud Montgomery)
+
 ### Rule-Based Classifier
 
 The rule-based classifier can either label the full text passage:
