@@ -104,7 +104,7 @@ unambiguous_female
 
 To use this classifier, it first has to be trained using **bert.ipynb** which is located in code/the_systems .
 
-(or you can download it here: )
+(or you can download it here: https://drive.google.com/drive/folders/13klSmqGx7iAdwtjcGu-Z-mXVowSXVLkR?usp=sharing)
 
 After downloading or training, place the folder including the fine-tuned model and tokenizer in the **models** folder or adjust the path.
 
