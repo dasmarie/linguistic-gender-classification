@@ -141,10 +141,14 @@ unambiguous_female
 - **evaluation**: evaluation-and-analysis.ipynb contains code that evaluates the performance of all systems and conducts and error analysis; dataset-prep.ipynb creates the dataset
 - **the_systems**: this folder contains separate notebooks to train each classifier and one notebook (try-classifiers.ipynb) with which the rule-based, feature-based, and BERT-based classifiers can be used on any text passage or sentence.
 
+- Each of the subfolders contains a folder named **modules** which contains explicit_cues.py to build and run the classifiers and evaluate.py for anything to do with evaluating them. They also contain a utils-folder, which is used for lexical gender detection and created/written by Bartl et al. (2022) (not me).
+
 
 **data** contains all data used to train and evaluate the classifiers.
 
 It contains all separate preprocessed datasets, the original datasets that were needed for the dataset creation, and the full combined datasets. data_that_helps contains data/key words/lexicons used for the dataset creation while winomt_ambiguous_only.tsv contains a test set for nouns with ambiguous linguistic gender in sentences with gendered pronouns.
+
+The original datasets used to create the training/evaluation dataset used here, consists of datasets from Pranav et al. (2025), Piergentili et al. (2024), and Jourdan et al. (2025). I only uploaded them here for an easier grading process (I did not create them; will take them down after the grading is done).
 
 
 **models** contains the feature-based classifier. It is also where the BERT classifier should be saved after training or downloading it.
@@ -152,6 +156,44 @@ It contains all separate preprocessed datasets, the original datasets that were 
 
 **results** contains all results.
 
+
+
+### Dataset References
+
+A. Pranav, J. Hackenbuchner, G. Attanasio, M. Lardelli, and A. Lauscher. Glitter: A
+multi-sentence, multi-reference benchmark for gender-fair German machine translation. In
+C. Christodoulopoulos, T. Chakraborty, C. Rose, and V. Peng, editors, Findings of the
+Association for Computational Linguistics: EMNLP 2025, pages 18450–18477, Suzhou,
+China, Nov. 2025. Association for Computational Linguistics. ISBN 979-8-89176-335-7. doi:
+10.18653/v1/2025.findings-emnlp.1002. URL
+https://aclanthology.org/2025.findings-emnlp.1002/
+
+
+A. Piergentili, B. Savoldi, D. Fucci, M. Negri, and L. Bentivogli. Hi guys or hi folks?
+benchmarking gender-neutral machine translation with the GeNTE corpus. In H. Bouamor,
+J. Pino, and K. Bali, editors, Proceedings of the 2023 Conference on Empirical Methods in
+Natural Language Processing, pages 14124–14140, Singapore, Dec. 2023. Association for
+Computational Linguistics. doi: 10.18653/v1/2023.emnlp-main.873. URL
+https://aclanthology.org/2023.emnlp-main.873/
+
+
+F. Jourdan, Y. Chevalier, and C. Favre. Fairtranslate: an english-french dataset for gender
+bias evaluation in machine translation by overcoming gender binarity. In Proceedings of the
+2025 ACM Conference on Fairness, Accountability, and Transparency, FAccT ’25, page
+150–166, New York, NY, USA, 2025. Association for Computing Machinery. ISBN
+9798400714825. doi: 10.1145/3715275.3732013. URL
+https://doi.org/10.1145/3715275.3732013.
+
+
+
+### utils (Reference)
+
+M. Bartl and S. Leavy. Inferring gender: A scalable methodology for gender detection with
+online lexical databases. In B. R. Chakravarthi, B. Bharathi, J. P. McCrae, M. Zarrouk,
+K. Bali, and P. Buitelaar, editors, Proceedings of the Second Workshop on Language
+Technology for Equality, Diversity and Inclusion, pages 47–58, Dublin, Ireland, May 2022.
+Association for Computational Linguistics. doi: 10.18653/v1/2022.ltedi-1.7. URL
+https://aclanthology.org/2022.ltedi-1.7/
 
 
 **code** and **data** also contain a folder called modules with functions for evaluation (evaluation.py) and creation (explicit_cues.py) of the classifiers.
